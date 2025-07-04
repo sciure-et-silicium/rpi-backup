@@ -40,4 +40,5 @@ cat /sys/class/thermal/thermal_zone0/temp
 ```
 
 ## TODO
-desactivé l'authentification par mot de passe en faveur des clés publiques. A faire comme indiqué ici : [https://community.synology.com/enu/forum/1/post/140590](https://community.synology.com/enu/forum/1/post/140590)
+- desactivé l'authentification par mot de passe en faveur des clés publiques. A faire comme indiqué ici : [https://community.synology.com/enu/forum/1/post/140590](https://community.synology.com/enu/forum/1/post/140590)
+- lister toutes les modifications faites, aussi bien dans home, etc et les paquets installés et tout mettre dans ce repo
